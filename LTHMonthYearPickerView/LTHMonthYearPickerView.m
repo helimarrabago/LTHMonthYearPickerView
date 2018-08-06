@@ -8,10 +8,10 @@
 
 #import "LTHMonthYearPickerView.h"
 
-#define kMonthColor [UIColor grayColor]
-#define kYearColor [UIColor darkGrayColor]
-#define kMonthFont [UIFont systemFontOfSize: 22.0]
-#define kYearFont [UIFont systemFontOfSize: 22.0]
+#define kMonthColor [UIColor blackColor]
+#define kYearColor [UIColor blackColor]
+#define kMonthFont [UIFont boldSystemFontOfSize: 18.0]
+#define kYearFont [UIFont boldSystemFontOfSize: 18.0]
 #define kWinSize [UIScreen mainScreen].bounds.size
 
 const NSUInteger kMonthComponent = 0;
